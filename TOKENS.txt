@@ -1,0 +1,10 @@
+dir = XXX
+website = XXX
+silent = XXX [true or false]
+
+discord = XXX
+guilds = XXX, XXX, XXX...
+
+log_ip = XXX
+host_ip = XXX
+name = XXX
